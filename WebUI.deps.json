@@ -1338,6 +1338,7 @@
       },
       "Handlers/1.0.0": {
         "dependencies": {
+          "Data": "1.0.0",
           "Domain": "1.0.0",
           "PostgresData": "1.0.0"
         },
